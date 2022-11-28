@@ -1,0 +1,118 @@
+table {
+    border: rgb(18, 233, 169) 5px solid;
+    text-align: center;
+    vertical-align: middle;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+    td, th {
+        border: rgba(162, 170, 10, 0.541) 3px solid;
+        text-align: center;
+      }
+  
+
+caption {
+    background-color: rgba(135, 136, 186, 0.351);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline ;
+}
+thead {
+    font-weight: 600;
+    font-variant: all-small-caps;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center
+  }
+  li {
+    background-color: #23ccd8;
+    border: #18045f 3px solid;
+    display: inline;
+    margin-right: 10px;
+  }
+p{
+    text-align: center;
+    font-variant: small-caps;
+    
+}
+video {
+    width: 12cm;
+    height: 10cm;
+    
+}
+
+
+body{
+    background-color: aliceblue;
+}
+
+
+span.sporting{
+    background-color: #137905;
+    color: white;
+}
+span.united{
+    background-color: #bf0000;
+    color: #ebff14;
+}
+span.united2{
+    background-color: #bf0000;
+    color: #ebff14;
+}
+span.realmadrid{
+    background-color: white;
+    color: purple;
+}
+span.juventus {
+    background-color: black;
+    color: white;
+}
+h1{
+    text-shadow: black 6px 6px 8px;
+    text-transform: uppercase;
+    text-align: center;
+}
+h2{
+    text-transform: uppercase;
+    text-align: center;
+    text-shadow: #3355ab 6px 6px 8px;
+}
+
+span.coche{
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;   
+}
+span.barco{
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto; 
+
+}
+span.dormir{
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto; 
+}
+details{
+    text-align: center;
+    margin-left: auto;
+    background-color: beige;
+    
+}
+p.presentacion{
+    color: black;
+    border: rgb(186, 12, 221) 5px dotted;
+    background-color: beige;
+}
+summary{
+    font-weight: bold;
+}
+p.titulos{
+      text-decoration: underline;
+}
